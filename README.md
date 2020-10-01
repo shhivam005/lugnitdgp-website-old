@@ -1,6 +1,6 @@
 # lugnitdgp.github.io
 
-This is the repository for the official NIT Durgapur's GLUG website. It is
+This is the repository for the official NIT Durgapur's (in West Bengal) GLUG website. It is
 presently based on `Jekyll` static site generator. So, make sure `jekyll`
 is installed when you are running locally.
 
